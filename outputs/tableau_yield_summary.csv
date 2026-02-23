@@ -1,0 +1,6 @@
+metric,value
+Total Wafers,1567.0
+Passing Wafers,1463.0
+Failing Wafers,104.0
+Yield Rate (%),93.36
+Failure Rate (%),6.64
